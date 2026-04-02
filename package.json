@@ -37,10 +37,10 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
-  "author": "Rafał Dzięgielewski <rafal.dzieg@gmail.com>",
+  "author": "Rafa\u0142 Dzi\u0119gielewski <rafal.dzieg@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@prisma/client": "^5.0.0 || ^6.0.0",
+    "@prisma/client": "^5.0.0 || ^6.0.0 || ^7.0.0",
     "adminjs": "^7.0.0"
   },
   "prisma": {
